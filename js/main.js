@@ -3,6 +3,8 @@ import { Joyeria } from './joyeria.js';
 let productos = [];
 let carrito = [];
 
+//Declaracion de funciones
+
 function init() {
   fetch("../js/productos.json")
     .then(response => response.json())
