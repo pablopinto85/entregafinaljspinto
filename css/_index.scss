@@ -1,0 +1,15 @@
+.d-block vw-100 {
+    content: "";
+    display: block;
+    padding-top: 56.25%;
+  }
+  @media (min-width: 40rem) {
+    .d-block vw-100::before {
+      padding-top: 66.6%;
+    }
+  }
+ 
+  .animate__animated
+  
+  .animate__bounce {
+    --animate-duration: 2s;}

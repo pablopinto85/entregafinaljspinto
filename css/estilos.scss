@@ -1,0 +1,26 @@
+@import "./reset";
+@import "./contacto";
+@import "./header";
+@import "./index";
+@import "./pago";
+@import "./somos";
+@import "./productos";
+@import "./animation";
+
+$primary-color: pink;
+$secondary-color: violet;
+$tertiary-color:blue;
+$background-image: url(https://i.ibb.co/WsVmsM1/Magnolia.jpg) center center / cover fixed;
+
+.fondo {
+    background-image: url(https://i.ibb.co/WsVmsM1/Magnolia.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+.fondo_1 {
+        padding: 150px;
+        margin-bottom: 150px;
+   
+}
+ }

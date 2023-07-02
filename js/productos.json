@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "titulo": "Aros de Plata 925",
+        "img": "https://i.ibb.co/b3Z78cF/aros-plata.jpg",
+        "cantidad" : 1,
+        "categoria": {
+            "nombre": "Joyaplata",
+            "id": "plata"
+        },
+        "precio": 79000
+    },
+    
+    {
+        "id": 2,
+        "titulo": "Cadena Acero",
+        "img": "https://i.ibb.co/d0cJ4Xh/cadena-acero.jpg",
+        "cantidad" : 1,
+        "categoria": {
+            "nombre": "Joyaacero",
+            "id": "acero"
+        },
+        "precio": 29000
+    },
+    {
+        "id": 3,
+        "titulo": "Anillo Oro 18 Kilates",
+        "img": "https://i.ibb.co/v38VRSL/anillo-oro.jpg",
+        "cantidad" : 1,
+        "categoria": {
+            "nombre": "Joyaoro",
+            "id": "oro"
+        },
+        "precio": 99000
+    },
+    {
+        "id": 4,
+        "titulo": "Anillo plata 925",
+        "img": "https://i.ibb.co/zNn7gHQ/anillo-plata.jpg",
+        "cantidad" : 1,
+        "categoria": {
+            "nombre": "Joyaplata",
+            "id": "plata"
+        },
+        "precio": 49000
+    },
+    {
+        "id": 5,
+        "titulo": "Anillo Acero Quirurgico",
+        "img": "https://i.ibb.co/M7cWsVt/anillo-aceroq.jpg",
+        "cantidad" : 1,
+        "categoria": {
+            "nombre": "Joyaacero",
+            "id": "acero"
+        },
+        "precio": 9900
+    },
+    {
+        "id": 6,
+        "titulo": "Argollas de Oro 18 Kilates",
+        "img": "https://i.ibb.co/wpcmpht/argollas-oro.jpg",
+        "cantidad" : 1,
+        "categoria": {
+            "nombre": "Joyaoro",
+            "id": "oro"
+        },
+        "precio": 219000
+    },
+    {
+        "id": 7,
+        "titulo": "Aros de Plata 925",
+        "img": "https://i.ibb.co/MVPBrtC/arosargolla-oro.jpg",
+        "cantidad" : 1,
+        "categoria": {
+            "nombre": "Joyaoro",
+            "id": "oro"
+        },
+        "precio": 149000
+    },
+    {
+        "id": 8,
+        "titulo": "Aros de Oro 18 Kilates",
+        "img": "https://i.ibb.co/JCcd8z5/colgante-cadena-plata.jpg",
+        "cantidad" : 1,
+        "categoria": {
+            "nombre": "Joyaplata",
+            "id": "plata"
+        },
+        "precio": 79000
+    }  
+    
+    ]
