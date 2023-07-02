@@ -1,4 +1,2 @@
-﻿# magnolia
-# magnolia
-# joyasmagnolia
-#joyasmagnolia v1.5
+# entregafinaljspablopinto
+ Curso JS entrega final
